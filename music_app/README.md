@@ -76,7 +76,7 @@ http://localhost:8081/tag/{id}
 http://localhost:8081/tag
 
 
-****** assigment primary ask solution **********
+****** tagged playlist **********
 
 4.  explore playlist by tag id
 http://localhost:8081/tag/explorePlaylist?tagsIds=1,2
